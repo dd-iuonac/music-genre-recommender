@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="images">
+    <file>src/images/music-hero2.jpg</file>
+  </qresource>
+</RCC>

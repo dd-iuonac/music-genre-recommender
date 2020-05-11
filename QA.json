@@ -1,0 +1,52 @@
+{
+  "0": {
+    "text": "Do you want contemporary music?",
+    "options": ["No", "Yes"],
+    "category": "PERIOD_OF_TIME"
+  },
+   "1": {
+    "text": "From which century would you prefere?",
+    "options": ["All before 20th", "Century 20th", "Century 21th"],
+    "category": "CENTURY"
+  },
+   "2": {
+    "text": "How would you like the musical instrumentation?",
+    "options": ["Only Instruments", "Only Voice", "Voice and Instruments"],
+    "category": "COMPOSITION"
+  },
+  "3":{
+    "text": "Does the musician use a sheet?",
+    "options": ["Without sheets", "With sheets"],
+    "category": "SHEETS"
+  },
+
+  "4":{
+    "text": "What is the thematic of the music?",
+    "options": ["Secular", "Patriotic", "Religious"],
+    "category": "THEME"
+  },
+
+  "5":{
+    "text": "How rythmatic would you prefere the music?",
+    "options": ["Not so rythmic", "Very rythmic"],
+    "category": "RHYTHM"
+  },
+
+  "6":{
+    "text": "Does it involves electrical instruments?",
+    "options": ["Non electrical instrumentation", "Electrical instrumentation"],
+    "category": "ELECTRIC"
+  },
+
+  "7":{
+    "text": "Is the artist moving when signing?",
+    "options": ["Not moving when signing", "Moving when signing"],
+    "category": "MOVEMENT"
+  },
+
+  "8":{
+    "text": "Does the song implies rhyme?",
+    "options": ["No", "Yes"],
+    "category": "RHYME"
+  }
+}

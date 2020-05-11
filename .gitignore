@@ -1,0 +1,8 @@
+.idea
+venv
+build
+dist
+Main.spec
+src/__pycache__
+src/ui/__pycache__
+src/model/__pycache__
