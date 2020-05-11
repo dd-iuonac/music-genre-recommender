@@ -2,9 +2,11 @@
 Music Genre Recommender is an expert system that recommends music genre. It is written in Python3 using PySide2 (the Qt5 python bindings) for GUI.
 It takes you through a set of questions and based on your answers it suggest a music genre.
 ## Below are some screens of the GUI
-[![MainWindow](./images/MainWindow.jpg "MainWindow")]
-[![Questions](./images/Questions.jpg "Questions")]
-[![Result](./images/Result.jpg "Result")]
+<img src="images/MainWindow.JPG" alt="MainWindow">
+
+<img src="images/Questions.JPG" alt="Questions">
+
+<img src="images/Result.JPG" alt="Result">
 
 # How to run?
 ## Create an environment and install requirements: 
